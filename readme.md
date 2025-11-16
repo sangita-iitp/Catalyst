@@ -5,7 +5,7 @@ Palkaran Sethi • Dr. Sangita Roy • Dr. Soumen Basu*
 **Affiliations:**  
 Department of Chemistry and Biochemistry & Department of Computer Science and Engineering,  
 Thapar Institute of Engineering and Technology, Patiala-147004, Punjab, India  
-**Corresponding Author:** soumen.basu@thapar.edu, sangita.roy@thapar.edu  
+**For further query:** soumen.basu@thapar.edu, sangita.roy@thapar.edu  
 
 ---
 
@@ -79,6 +79,7 @@ scikit-learn
 tensorflow
 xgboost
 lightgbm
+
 
 
 
