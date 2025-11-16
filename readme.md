@@ -1,11 +1,11 @@
 # Machine Learning–Assisted Prediction of Tetracycline Photocatalytic Degradation
 
 **Authors:**  
-Palkaran Seth • Dr. Sangita Roy • Dr. Soumen Basu*  
+Palkaran Sethi • Dr. Sangita Roy • Dr. Soumen Basu*  
 **Affiliations:**  
 Department of Chemistry and Biochemistry & Department of Computer Science and Engineering,  
 Thapar Institute of Engineering and Technology, Patiala-147004, Punjab, India  
-**Corresponding Author:** soumen.basu@thapar.edu  
+**Corresponding Author:** soumen.basu@thapar.edu, sangita.roy@thapar.edu  
 
 ---
 
@@ -67,3 +67,4 @@ scikit-learn
 tensorflow
 xgboost
 lightgbm
+
