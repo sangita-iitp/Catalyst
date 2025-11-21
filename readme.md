@@ -56,29 +56,10 @@ Catalyst/
 
 ---
 
-## ⚙️ Code Description
-**File:** `Finalcode.ipynb`
+ 
 
-### Major Sections
-1. **Data import & preprocessing:** scaling, encoding, and outlier handling  
-2. **GAN model training:** generates 300 synthetic catalyst data points  
-3. **Data augmentation:** merges original + synthetic datasets  
-4. **Model training:** evaluates 19 regression algorithms  
-5. **Hyperparameter optimization:** grid/random search tuning  
-6. **Feature importance analysis:** permutation & sensitivity-based  
-7. **Evaluation metrics:** R², MAE, MSE, RMSE, RMSLE, MAPE, training time  
 
-**Dependencies**
-```bash
-python >= 3.10
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-tensorflow
-xgboost
-lightgbm
+
 
 
 
