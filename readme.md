@@ -24,14 +24,11 @@ A total of 19 regression algorithms were evaluated, and the **Random Forest Regr
 Catalyst/
 │
 ├── Catalyst data_300.xlsx        # 📊 Final dataset (19 real + 300 GAN-generated samples)
-│
-├── Catalyst_Code.ipynb               # 🧠 Jupyter notebook: GAN data generation, ML training, evaluation
-│
-├── README.md                     # 📘 Main documentation (project overview, dataset, instructions)
+|
+├── readme.md                     # 📘 Main documentation (project overview, dataset, instructions)
 │
 ├── LICENSE                       # ⚖️ License file (e.g., Creative Commons Zero v1.0 Universal)
-│
-└── .gitignore                    # (optional) tells GitHub to ignore system or cache files
+
 
 
 ---
@@ -57,6 +54,7 @@ Catalyst/
 ---
 
  
+
 
 
 
