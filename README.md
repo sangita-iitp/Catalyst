@@ -1,3 +1,0 @@
-# Catalyst
-Photocatalytic Degradation
-
